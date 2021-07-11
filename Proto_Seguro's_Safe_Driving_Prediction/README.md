@@ -9,4 +9,4 @@ Predict if a driver will file an insurance claim next year.
 
 학습 목적 : Binary Classification 문제에 대해 Random Forest 및 XGBoost 활용 
 
-[Bert Carremans](https://www.kaggle.com/bertcarremans/data-preparation-exploration)와 [Gabriel Preda](https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction) Kernal 참조
+[Bert Carremans](https://www.kaggle.com/bertcarremans/data-preparation-exploration)와 [Gabriel Preda](https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction), [Tilli](https://www.kaggle.com/tilii7/hyperparameter-grid-search-with-xgboost) Kernal 참조
