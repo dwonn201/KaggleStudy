@@ -11,7 +11,7 @@ Kaggle [Football Match Probability Prediction](https://www.kaggle.com/c/football
 
 ## Evalueation
 평가지표 : **multinomial Log-Loss**.   
-log-loss는 예측 확률의 quality를 측정 **the quality of the predicted probabilities**.  
+log-loss는 예측 확률의 quality를 측정 (**the quality of the predicted probabilities**.)   
 자세한 내용은 [blog post](https://medium.com/geekculture/football-prediction-performance-how-to-calculate-hit-ratio-and-log-loss-1e5e22310497) 참조  
 
 ## 대회기간
